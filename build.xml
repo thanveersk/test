@@ -1,0 +1,5 @@
+<project name="devops" default="a">
+<target name="a">
+<delete dir="bangalore"/>
+</target>
+</project>
